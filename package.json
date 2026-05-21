@@ -1,0 +1,22 @@
+{
+  "name": "jade-and-bloom-site",
+  "version": "1.0.0",
+  "description": "Premium Indian Skincare Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Open index.html in your browser'",
+    "build": "echo 'No build needed - pure HTML'",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "skincare",
+    "indian-beauty",
+    "jade-and-bloom"
+  ],
+  "author": "Jade and Bloom",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thejadeandbloom/jade-and-bloom-site.git"
+  }
+}
